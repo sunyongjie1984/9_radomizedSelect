@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13160DC82821211600634997 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160DC72821211600634997 /* main.cpp */; };
+		13160DCF2821213100634997 /* RandomizedSelect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160DCE2821213100634997 /* RandomizedSelect.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		13160DC42821211600634997 /* 9_radomizedSelect */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 9_radomizedSelect; sourceTree = BUILT_PRODUCTS_DIR; };
-		13160DC72821211600634997 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13160DCE2821213100634997 /* RandomizedSelect.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RandomizedSelect.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		13160DC62821211600634997 /* 9_radomizedSelect */ = {
 			isa = PBXGroup;
 			children = (
-				13160DC72821211600634997 /* main.cpp */,
+				13160DCE2821213100634997 /* RandomizedSelect.cpp */,
 			);
 			path = 9_radomizedSelect;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13160DC82821211600634997 /* main.cpp in Sources */,
+				13160DCF2821213100634997 /* RandomizedSelect.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
